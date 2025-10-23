@@ -1,0 +1,11 @@
+Flask
+flask-cors
+flask-jwt-extended
+pymongo
+pytesseract
+pdfplumber
+Pillow
+sentence-transformers
+torch
+numpy
+
