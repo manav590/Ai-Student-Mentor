@@ -8,4 +8,7 @@ Pillow
 sentence-transformers
 torch
 numpy
-
+firebase-admin
+python-dotenv
+Werkzeug
+config
